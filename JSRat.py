@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 #
-# JSRat Server
-# Edited: JPMonglis
+# JSRat Server - Python Implementation
+# By: Hood3dRob1n
+#
 #
 
 # Added functionality
